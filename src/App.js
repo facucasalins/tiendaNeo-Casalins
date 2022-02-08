@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <Router>
         <Navbar />
-        <ItemListContainer />
+        <ItemListContainer nombreEmp="NFT CufaCofeeShop"/>
         <Accordion />
       </Router>
     </div>
